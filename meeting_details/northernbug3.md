@@ -34,7 +34,7 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 | 13:50-14:20 | TBD | Sponsor Talk | |
 | 14:20-14:30 | All | Discussion - topic TBD | |
 | 14:30-15:00 | All | Coffee | |
-| 15:00-15:20 | TBD | Accepted Talk 1 | Chair: |
+| 15:00-15:20 | Peter Leary | Accepted Talk 1 | Chair: |
 | 15:20-15:40 | TBD | Accepted Talk 2 | |
 | 15:40-16:00 | TBD | Accepted Talk 3 | |
 | 16:00-16:10 | TBD | Student Talk 4 | |
@@ -49,6 +49,8 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 
 
 ## Accepted
+
+ - [Peter Leary, Newcastle University Bioinformatics Support Unit](https://ncl.ac.uk/bsu)
 
 ## Student
 
