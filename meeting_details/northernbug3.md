@@ -51,8 +51,12 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 ## Accepted
 
  - [Peter Leary, Newcastle University Bioinformatics Support Unit](https://ncl.ac.uk/bsu)
+ - [Dave Lunt, University of Hull](https://www.hull.ac.uk/faculties/staff-profiles/dave-lunt.aspx)
 
 ## Student
+
+  - [Dennis Wang, Univeristy of Sheffield](https://www.sheffield.ac.uk/neuroscience/staff/wang)
+  - Cristina Alexandru, University of Sheffield
 
 # Registration
 
