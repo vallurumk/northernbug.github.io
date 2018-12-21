@@ -28,14 +28,14 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 | 12:00-13:00 | All | Lunch | |
 | 13:00-13:10 | | Welcome and Introduction to Northern BUG | |
 | 13:10-13:50 | Bissan Al-Lazikani | | Chair: |
-| 13:20-13:30 | TBD | Student Talk 1 | |
-| 13:30-13:40 | TBD | Student Talk 2 | |
+| 13:20-13:30 | Dennis Wang | TBC | |
+| 13:30-13:40 | Cristina Alexandru | TBC | |
 | 13:40-13:50 | TBD | Student Talk 3 | |
 | 13:50-14:20 | TBD | Sponsor Talk | |
 | 14:20-14:30 | All | Discussion - topic TBD | |
 | 14:30-15:00 | All | Coffee | |
 | 15:00-15:20 | Peter Leary | Accepted Talk 1 | Chair: |
-| 15:20-15:40 | TBD | Accepted Talk 2 | |
+| 15:20-15:40 | Dave Lunt | Accepted Talk 2 | |
 | 15:40-16:00 | TBD | Accepted Talk 3 | |
 | 16:00-16:10 | TBD | Student Talk 4 | |
 | 16:10-16:30 | | Closing Remarks and Discussion | |
