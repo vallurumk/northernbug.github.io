@@ -28,17 +28,14 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 | 12:00-13:00 | All | Lunch | |
 | 13:00-13:10 | | Welcome and Introduction to Northern BUG | |
 | 13:10-13:50 | Bissan Al-Lazikani | | Chair: |
-| 13:20-13:30 | Dennis Wang | TBC | |
-| 13:30-13:40 | Cristina Alexandru | TBC | |
-| 13:40-13:50 | TBD | Student Talk 3 | |
-| 13:50-14:20 | TBD | Sponsor Talk | |
-| 14:20-14:30 | All | Discussion - topic TBD | |
+| 13:50-14:05 | Dennis Wang | TBC | |
+| 14:05-14:20 | Cristina Alexandru | TBC | |
+| 14:20-14:30 | All | Discussion, session summary | |
 | 14:30-15:00 | All | Coffee | |
-| 15:00-15:20 | Peter Leary | Accepted Talk 1 | Chair: |
+| 15:00-15:20 | Simon Cockell | Accepted Talk 1 | Chair: |
 | 15:20-15:40 | Dave Lunt | Accepted Talk 2 | |
-| 15:40-16:00 | TBD | Accepted Talk 3 | |
-| 16:00-16:10 | TBD | Student Talk 4 | |
-| 16:10-16:30 | | Closing Remarks and Discussion | |
+| 15:40-16:00 | Claudio Angione | Accepted Talk 3 | |
+| 16:00-16:30 | | Closing Remarks and Discussion | |
 | 16:30-17:00 | All | Drinks | |
 
 # Speakers
@@ -50,8 +47,9 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 
 ## Accepted
 
- - [Peter Leary, Newcastle University Bioinformatics Support Unit](https://ncl.ac.uk/bsu)
+ - [Simon Cockell, Newcastle University Bioinformatics Support Unit](https://ncl.ac.uk/bsu)
  - [Dave Lunt, University of Hull](https://www.hull.ac.uk/faculties/staff-profiles/dave-lunt.aspx)
+ - [Claudio Angione, Teesside University](https://www.scm.tees.ac.uk/c.angione/)
 
 ## Student
 
