@@ -27,12 +27,12 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 |---------------|---------|--------------|-------------|
 | 12:00-13:00 | All | Lunch | |
 | 13:00-13:10 | | Welcome and Introduction to Northern BUG | |
-| 13:10-13:50 | Bissan Al-Lazikani | | Chair: |
-| 13:50-14:05 | Dennis Wang | TBC | |
+| 13:10-13:50 | Bissan Al-Lazikani | Real Big Data in Cancer Drug Discovery & Therapy | Chair: Simon Cockell |
+| 13:50-14:05 | Dennis Wang | TBC | Chair: Yura Grabovska |
 | 14:05-14:20 | Cristina Alexandru | TBC | |
 | 14:20-14:30 | All | Discussion, session summary | |
 | 14:30-15:00 | All | Coffee | |
-| 15:00-15:20 | Simon Cockell | Accepted Talk 1 | Chair: |
+| 15:00-15:20 | Simon Cockell | Systems approaches to drug repurposing | Chair: |
 | 15:20-15:40 | Dave Lunt | Accepted Talk 2 | |
 | 15:40-16:00 | Claudio Angione | Accepted Talk 3 | |
 | 16:00-16:30 | | Closing Remarks and Discussion | |
