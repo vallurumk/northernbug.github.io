@@ -27,14 +27,14 @@ We'd love to hear about your work! Please email talk proposals to <a href='mailt
 |---------------|---------|--------------|-------------|
 | 12:00-13:00 | All | Lunch | |
 | 13:00-13:10 | | Welcome and Introduction to Northern BUG | |
-| 13:10-13:50 | Bissan Al-Lazikani | Real Big Data in Cancer Drug Discovery & Therapy | Chair: Simon Cockell |
-| 13:50-14:05 | Dennis Wang | TBC | Chair: Yura Grabovska |
-| 14:05-14:20 | Cristina Alexandru | TBC | |
+| 13:10-13:50 | Simon Cockell (replacing Bissan Al-Lazikani) | Systems approaches to drug repurposing | Chair: Matthew Bashton |
+| 13:50-14:05 | Dennis Wang | Multi-omics data integration for drug discovery | Chair: Yura Grabovska |
+| 14:05-14:20 | Cristina Alexandru | The regulatory potential of widespread alternative splicing in 3&prime; UTR of cancer genes | |
 | 14:20-14:30 | All | Discussion, session summary | |
 | 14:30-15:00 | All | Coffee | |
-| 15:00-15:20 | Simon Cockell | Systems approaches to drug repurposing | Chair: |
-| 15:20-15:40 | Dave Lunt | Accepted Talk 2 | |
-| 15:40-16:00 | Claudio Angione | Accepted Talk 3 | |
+| 15:00-15:20 | Dan Williamson & Yura Grabovska | methylCibersort: Pan-Cancer immunological tumor microenvironment estimation from methylation array data | Chair: Simon Cockell |
+| 15:20-15:40 | Dave Lunt | Bioinformatics from Hull | |
+| 15:40-16:00 | Claudio Angione | Combining machine learning and multi-omics modelling of metabolism | |
 | 16:00-16:30 | | Closing Remarks and Discussion | |
 | 16:30-17:00 | All | Drinks | |
 
