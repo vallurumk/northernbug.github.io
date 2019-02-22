@@ -35,9 +35,10 @@ We will upload presentations here:
 {% else %}
 {% capture day %}{{meeting.day}}{% endcapture %}
 {% endif %}
-{% capture event_date %}{{ meeting.year }}-{{ meeting.month }}-{{day}} {% endcapture %}
-{% capture current_date %}{{ site.time | date: '%Y-%B-%d' }}{% endcapture %}
-{% if event_date > current_date %}
+{% capture event_date_string %} {{ meeting.year }}-{{ meeting.month }}-{{day}} {% endcapture %}
+{% capture event_date %}{{ event_date_string | date: '%s' }}{% endcapture %}
+{% capture current_date %}{{ site.time | date: '%s' }}{% endcapture %}
+{% if event_date >= current_date %}
 <tr>
 {% if meeting.page %}
 <td><a href="/{{meeting.page}}">{{ meeting.meeting }}</a></td>
@@ -69,8 +70,9 @@ We will upload presentations here:
 {% else %}
 {% capture day %}{{meeting.day}}{% endcapture %}
 {% endif %}
-{% capture event_date %}{{ meeting.year }}-{{ meeting.month }}-{{day}} {% endcapture %}
-{% capture current_date %}{{ site.time | date: '%Y-%B-%d' }}{% endcapture %}
+{% capture event_date_string %} {{ meeting.year }}-{{ meeting.month }}-{{day}} {% endcapture %}
+{% capture event_date %}{{ event_date_string | date: '%s' }}{% endcapture %}
+{% capture current_date %}{{ site.time | date: '%s' }}{% endcapture %}
 {% if event_date < current_date %}
 <tr>
 {% if meeting.page %}
