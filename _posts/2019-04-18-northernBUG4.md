@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Krzysztof Poterlowicz
-title: Last chance to register for Northern BUG4
+title: Registration for Northern BUG4 will close on Sunday, 21st April 2019
 ---
 
 Last chance to register for Northern BUG4 at the University of Bradford on **Friday 26 April 2019**. We're jam packed with some amazing talks.
