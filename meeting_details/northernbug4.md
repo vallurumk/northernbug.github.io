@@ -29,8 +29,8 @@ If anyone would like to fill any of these slots please contact [Amber Leckenby](
 | Time          | Speaker | Presentation | 
 |---------------|---------|--------------|
 | 12:00-13:00 | All | Lunch |
-| 13:00-13:15 |Krzysztof Poterlowicz |  Introduction | 
-| 13:00-13:15 |Professor Alastair Goldman | Welcome remarks from the Dean of the Faculty of Life Sciences, University of Bradford| 
+| 13:00-13:05 |Krzysztof Poterlowicz |  Introduction | 
+| 13:05-13:15 |Professor Alastair Goldman | Welcome remarks from the Dean of the Faculty of Life Sciences, University of Bradford| 
 | 13:15-13:30 | Elizabeth Sollars | Clinical Screening of Cystic Fibrosis using NGS |
 | 13:30-13:45 | Katarzyna Murat | EWAS-Galaxy: a tools suite for population epigenetics integrated into Galaxy | 
 | 13:45-14:00 | Sumeet Deshmukh | The impact of SNPs associated with allelic imbalance on miRNA binding sites in 3'UTR regions 
