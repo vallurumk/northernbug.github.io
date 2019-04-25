@@ -38,7 +38,7 @@ If anyone would like to fill any of these slots please contact [Amber Leckenby](
 | 14:15-14:30 | All | Session Discussion |
 | 14:30-15:30 | All | Coffee Break and Poster Session |
 | 15:30-15:45 | James Engleback | Using machine learning to engineer P450s to make herbicide resistant crops | 
-| 15:45-16:00 | Matthew Howes | Insights into the evolution of Escherichia coli | 
+| 15:45-16:00 | Matthew Howes | The genetic basis to UK E. coli urinary tract infections | 
 | 16:00-16:30 | All | Closing Remarks and Discussion | 
 | 16:30-      | All | Drinks - Sunbridge Wells, Bradford | 
 
