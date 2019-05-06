@@ -1,6 +1,6 @@
 - name: John Davey
   github: johnomics
-  institute: York University Bioinformatics Core
+  institute: University of York Bioinformatics Core
   email: john.davey@york.ac.uk
   website: https://www.york.ac.uk/biology/technology-facility/genomics/
   twitter: johnomics
@@ -214,8 +214,20 @@
   twitter: MSCclinbioinf
  
 - name: Krzysztof Poterlowicz
-  github: kpoterlowicz
   institute: University of Bradford
   email: k.poterlowicz1@bradford.ac.uk
+  github: kpoterlowicz
   interests: Genomics, Epigenomics, Transcriptomics, Galaxy platform, Software development, Machine learning, Skin 
  
+- name: Saba Ferdous
+  github: sabaferdous12
+  institute: CRUK MI
+  email: saba.ferdous@manchester.ac.uk
+
+- name: Dave Lunt
+  institute: University of Hull
+  email: dave.lunt@gmail.com
+  github: davelunt
+  twitter: davelunt
+  website: davelunt.net
+  interests: Comparative genomics, evolution, workflows and pipelines, reproducible bioinformatics
