@@ -2,7 +2,7 @@
 layout: meeting
 author: Dave Lunt
 title: NorthernBUG 5
-date: Monday 9th September 2019
+date: 2019-09-11
 institute: University of Hull
 postcode: HU6 7RX
 permalink: northernbug5
