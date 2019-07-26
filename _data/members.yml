@@ -178,10 +178,12 @@
   interests: Bioinformatics, Clinical Genetics
 
 - name: Emma Rand
-  institute: University of York
+  github: 3mmaRand
+  institute: University of York, Department of Biology
   email: emma.rand@york.ac.uk
-  website: https://buzzrbeeline.blog/
+  website: https://www.york.ac.uk/biology/our-staff/emma-rand/
   twitter: er13_r
+  interests: biostatistics, data science, reproducibility, training and skills, teaching and learning 
   
 - name: Lucy Stead
   institute: University of Leeds
@@ -231,3 +233,4 @@
   twitter: davelunt
   website: davelunt.net
   interests: Comparative genomics, evolution, workflows and pipelines, reproducible bioinformatics
+
