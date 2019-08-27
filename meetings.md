@@ -24,7 +24,6 @@ We will upload presentations here:
 <table>
 <thead>
 <th>Meeting</th>
-<th>Theme</th>
 <th>Date</th>
 <th>Institute</th>
 <th>City</th>
@@ -45,7 +44,6 @@ We will upload presentations here:
 {% else %}
 <td>{{ meeting.meeting }}</td>
 {% endif %}
-<td>{{ meeting.theme }}</td>
 <td>{{ meeting.day }} {{ meeting.month }} {{ meeting.year }}</td>
 <td>{{ meeting.institute }}</td>
 <td>{{ meeting.city }}</td>
@@ -59,7 +57,6 @@ We will upload presentations here:
 <table>
 <thead>
 <th>Meeting</th>
-<th>Theme</th>
 <th>Date</th>
 <th>Institute</th>
 <th>City</th>
@@ -80,7 +77,6 @@ We will upload presentations here:
 {% else %}
 <td>{{ meeting.meeting }}</td>
 {% endif %}
-<td>{{ meeting.theme }}</td>
 <td>{{ meeting.day }} {{ meeting.month }} {{ meeting.year }}</td>
 <td>{{ meeting.institute }}</td>
 <td>{{ meeting.city }}</td>
