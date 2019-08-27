@@ -4,33 +4,29 @@ title: Training
 permalink: /training/
 ---
 
-Training list coming soon.
+This page lists the training offered by members of the NortherBUG network.
 
+{% assign sorted = site.data.training  | sort: 'date'  %}
+{% for training in sorted %}
 
-
-# Upcoming Meetings
-
-<table>
-
-{% for training in site.data.training %}
-{% capture day %}{{meeting.day}}{% endcapture %}
-{% endif %}
-{% capture event_date_string %} {{ meeting.year }}-{{ meeting.month }}-{{day}} {% endcapture %}
-{% capture event_date %}{{ event_date_string | date: '%s' }}{% endcapture %}
+{% capture event_date %}{{ training.date | date: '%s' }}{% endcapture %}
 {% capture current_date %}{{ site.time | date: '%s' }}{% endcapture %}
 {% if event_date >= current_date %}
+<table>
 <tr>
-<td bgcolor="#D3D3D3" colspan="3">{{ training.title }}</td>
-<tr>
+<td style="background-color: #D3D3D3 !important; color:#FFFFFF !important;" colspan="3"><a href="{{training.link}}"><strong>{{ training.title }}</strong></a></td>
+<tr style="background-color: #FFFFFF !important;">
 <td colspan="3">{{ training.subtitle}}</td>
 </tr>
-<tr>
-<td colspan="3">{{ training.description}}</td>
+<tr style="background-color: #FFFFFF !important;">
+<td colspan="3"><strong>Description</strong><br />{{ training.description}}</td>
 </tr>
-<tr bgcolor="#D3D3D3">
-<td>{{ training.day }} {{ training.month }} {{ training.year }}</td>
+<tr style="background-color: #FFFFFF !important;">
+<td>{{ training.date }}</td>
+<td>{{ training.duration }} day(s)</td>
 <td>{{ training.institute }}</td>
 </tr>
+
 {% endif %}
 {% endfor %}
-</table>
+
