@@ -34,11 +34,11 @@ If anyone would like to fill any of these slots please contact [Amber Leckenby](
 | 13:15-13:30 | Elizabeth Sollars | Clinical Screening of Cystic Fibrosis using NGS |
 | 13:30-13:45 | Katarzyna Murat | EWAS-Galaxy: a tools suite for population epigenetics integrated into Galaxy | 
 | 13:45-14:00 | Sumeet Deshmukh | The impact of SNPs associated with allelic imbalance on miRNA binding sites in 3'UTR regions 
-| 14:00-14:15 | Christina Alexandru, Ivaylo Yonchev, Manoj Kumar Valluru| 2 minute Teaser Talks |
+| 14:00-14:15 | Christina Alexandru, Manoj Kumar Valluru, Chloe Brook, Supreeta Vijayakumar | 2 minute Teaser Talks |
 | 14:15-14:30 | All | Session Discussion |
 | 14:30-15:30 | All | Coffee Break and Poster Session |
 | 15:30-15:45 | James Engleback | Using machine learning to engineer P450s to make herbicide resistant crops | 
-| 15:45-16:00 | Matthew Howes | Insights into the evolution of Escherichia coli | 
+| 15:45-16:00 | Matthew Howes | The genetic basis to UK E. coli urinary tract infections | 
 | 16:00-16:30 | All | Closing Remarks and Discussion | 
 | 16:30-      | All | Drinks - Sunbridge Wells, Bradford | 
 

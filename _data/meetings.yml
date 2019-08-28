@@ -31,3 +31,27 @@
   institute: University of Bradford
   city: Bradford
   page: northernbug4
+  
+- meeting: NorthernBUGTrainers|1
+  month: July
+  day: 9
+  year: 2019
+  institute: University of Sheffield
+  city: Sheffield
+  page: northernbugtrainers1
+
+- meeting: NorthernBUG|5
+  month: September
+  day: 9
+  year: 2019
+  institute: University of Hull
+  city: Hull
+  page: northernbug5
+
+- meeting: NorthernBUG|6
+  month: January
+  day: 24
+  year: 2020
+  institute: University of Leeds
+  city: Leeds
+  page: northernbug6

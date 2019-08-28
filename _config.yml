@@ -43,7 +43,7 @@ header_pages:
  - contact.md
  - meetings.md
  - members.md
- - resources.md
+ - training.md
 
 # Build settings
 theme: minima

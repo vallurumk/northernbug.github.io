@@ -1,0 +1,29 @@
+- title: Data Manipulation and Visualisation
+  subtitle: In this course, we give an introduction to the R environment and explain how it can be used to import, manipulate and visualise tabular data.
+  description: After the course you should feel confident to start exploring your own dataset using the materials and references provided.
+  date: 17-09-2019
+  duration: 1
+  institute: University of Sheffield
+  city: Sheffield
+  location: SITraN
+  link: http://sbc.shef.ac.uk/training/r-introduction-2019-09-17/
+
+- title: Nanopore Sequencing & Data Analysis
+  subtitle: Learn about nanopore sequecning and data analysis by performing your own 16S sequecning experiement!
+  description: Learn - The science behind nanopore sequencing, How to prepare a 16S amplicon library for sequencing, Loading a library onto a MinION flow cell, Sequencing on the MinION platform, Basics of nanopore data, Analysis of our 16S data using Galaxy
+  date: 19-09-2019
+  duration: 1
+  institute: University of Sheffield
+  city: Sheffield
+  location: E13 Dainton Building
+  link: http://sbc.shef.ac.uk/training/nanopore-sequencing-2019-09-19/
+
+- title: Statistical Analysis of Biological Data in R
+  subtitle: Using R for the analysis of biological data
+  description: This course provides a refresher on the foundations of statistical analysis. The course is aimed at scientists at all levels – especially those whose formal education likely included statistics, but who have not perhaps put this into practice since. The focus of the course is on understanding the principles behind statistical testing, how to choose and execute the most appropriate test for your data, and how to interpret the result.
+  date: 18-09-2019
+  duration: 1
+  institute: University of Sheffield
+  city: Sheffield
+  location: SITraN
+  link: http://sbc.shef.ac.uk/training/stats-introduction-2019-09-18/

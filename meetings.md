@@ -8,8 +8,8 @@ Our meetings are based on the format pioneered by [NextGenBUG](http://nextgenbug
 
 NorthernBUG meetings are open to **anyone** interested in bioinformatics or its application
 in life science research and beyond. **Meetings are free** and costs covered
-by the host instititution. We encourage researchers in the early stages of their career
-to attend and present their work. It's a great forum to practice your talks, float new ideas and approcahes, and
+by the host institution. We encourage researchers in the early stages of their career
+to attend and present their work. It's a great forum to practice your talks, float new ideas and approaches, and
 present early work.
 
 We welcome research presentations from industry or commercial attendees, sponsorship is also welcome.
@@ -24,7 +24,6 @@ We will upload presentations here:
 <table>
 <thead>
 <th>Meeting</th>
-<th>Theme</th>
 <th>Date</th>
 <th>Institute</th>
 <th>City</th>
@@ -45,7 +44,6 @@ We will upload presentations here:
 {% else %}
 <td>{{ meeting.meeting }}</td>
 {% endif %}
-<td>{{ meeting.theme }}</td>
 <td>{{ meeting.day }} {{ meeting.month }} {{ meeting.year }}</td>
 <td>{{ meeting.institute }}</td>
 <td>{{ meeting.city }}</td>
@@ -59,7 +57,6 @@ We will upload presentations here:
 <table>
 <thead>
 <th>Meeting</th>
-<th>Theme</th>
 <th>Date</th>
 <th>Institute</th>
 <th>City</th>
@@ -80,7 +77,6 @@ We will upload presentations here:
 {% else %}
 <td>{{ meeting.meeting }}</td>
 {% endif %}
-<td>{{ meeting.theme }}</td>
 <td>{{ meeting.day }} {{ meeting.month }} {{ meeting.year }}</td>
 <td>{{ meeting.institute }}</td>
 <td>{{ meeting.city }}</td>
